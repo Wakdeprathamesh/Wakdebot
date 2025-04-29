@@ -1,0 +1,23 @@
+{
+  "welcome": "Welcome to the Ayurvedic Health Assistant! How can I help you today?",
+  "chat": {
+    "placeholder": "Ask a question about Ayurveda...",
+    "send": "Send"
+  },
+  "navbar": {
+    "home": "Home",
+    "login": "Login",
+    "signup": "Sign Up",
+    "dashboard": "Dashboard",
+    "chatbot": "Chat with us",
+    "doshaAnalysis": "Dosha Analysis",
+    "blogs": "Blogs",
+    "ayurvedicSearch": "Ayurvedic Search",
+    "logout": "Logout"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+} 
